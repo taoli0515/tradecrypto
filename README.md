@@ -32,5 +32,3 @@ donations
 I recommend a real time binding framework for this such as meteorjs + react (react is preference but default is good too)
 
 ### Donation collector will make income a thing (todo)
-
-# let's do this
